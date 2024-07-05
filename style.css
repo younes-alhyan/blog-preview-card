@@ -45,6 +45,7 @@ p {
 .category{
     width: fit-content;
     font-weight: var(--maxTextWidth);
+    font-size: small;
     color: var(--headersColor);
     background-color: var(--backgroundColor);
     border-radius: 5px;
@@ -53,6 +54,7 @@ p {
 }
 .published{
     color: var(--headersColor);
+    font-size: small;
 }
 h2{
     font-weight: var(--maxTextWidth);
@@ -65,19 +67,20 @@ h2:hover{
 }
 .descreption{
     color: var(--paragraphColor);
+    line-height: 25px;
 }
 .creature{
     display: flex;
     align-items: center;
 }
 .avatar{
-    height: 40px;
+    height: 30px;
     aspect-ratio: 1/1;
     margin-right: 15px;
     transition-duration: 300ms;
 }
 .avatar:hover{
-    height: 50px;
+    height: 40px;
     cursor: pointer;
 }
 .name{
