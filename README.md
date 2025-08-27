@@ -12,7 +12,7 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 
 ## 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/blog-preview-card-oJIayWFJAz) 
+[Solution Link](https://www.frontendmentor.io/solutions/blog-preview-card-oJIayWFJAz)
 
 ## 🚀 Live Demo
 
@@ -21,6 +21,11 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 ## 🔎 More
 
 [GitHub Repository](https://github.com/younes-alhyan/frontend-mentor/)
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ## 🔥 Difficulty
 
