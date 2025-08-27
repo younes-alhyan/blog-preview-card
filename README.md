@@ -31,4 +31,12 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 
 ![NEWBIE](https://img.shields.io/badge/Difficulty-NEWBIE-blue)
 
-**Level:** 1 / 5
+## 🏅 Level
+
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
